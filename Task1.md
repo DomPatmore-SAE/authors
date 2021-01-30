@@ -1,0 +1,1 @@
+In the UK, February marks LGBTQ History month. To start, I've made a script to celebrate the father of modern computing, Alan Turin. However, my script, alan.js, doesn't seem to work. Can you see what I'm missing?
