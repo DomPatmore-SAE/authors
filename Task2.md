@@ -14,9 +14,9 @@ This morning we looked at a prominent hero in computing, Alan Turing
    3. Sort the list alphabetically 
    4. Insert another LGBTQ historical figure at the beginning of the list
 
-3. Now, we'll need to show our information on our page. Create an element on your page that you can target. Once you can confirm that element has been loaded, create an 'Alan Turing' object. This object has:
-    - First Name
-    - Last Name
-    - Date of Birth
-    - Best Known For
-    Complete these fields, then show the content on the page. You should strive to make it look presentable.
+
+3. Write code that will display in the HTML the first, second, and fourth people on the list.
+   
+
+
+
